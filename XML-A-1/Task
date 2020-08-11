@@ -1,0 +1,11 @@
+Write a Document Type Definition (DTD) to validate the XML file for book information and display the XML file as follows.
+Tree structure, Internal DTD and External DTD. The contents should be displayed in a table with five rows. The header of the table should be in Brown colour. And the Author names column should be displayed in dark blue colour and should be Capitalized and in bold. Use your own colours for remaining.
+Book information includes the following:
+1.	Book title
+2.	Author(s) Name
+3.	Genre
+4.	Copyright year
+5.	Book Edition
+6.	ISBN number
+7.	Publisher name
+8.	Book Price
