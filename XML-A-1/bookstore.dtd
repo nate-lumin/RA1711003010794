@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT bookstore (book+)>
+<!ELEMENT book (title,author,genre,year,edition,ISBN,publisher,price)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT edition (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT price (#PCDATA)>

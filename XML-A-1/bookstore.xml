@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+<book>
+  <title>Harry Potter and the Philosopher's Stone</title>
+  <author>J K Rowling</author>
+  <genre>Fantasy</genre>
+  <year>2005</year>
+  <edition>5</edition>
+  <ISBN>1234</ISBN>
+  <publisher>Penguin</publisher>
+  <price>50.00</price>
+</book>
+<book>
+  <title>Looking for Alaska</title>
+  <author>John Greene</author>
+  <genre>Romance</genre>
+  <year>2006</year>
+  <edition>4</edition>
+  <ISBN>2345</ISBN>
+  <publisher>Harper Collins</publisher>
+  <price>60.00</price>
+</book>
+<book>
+  <title>Wuthering Heights</title>
+  <author>Emily Bronte</author>
+  <genre>Gothic</genre>
+  <year>2008</year>
+  <edition>9</edition>
+  <ISBN>3456</ISBN>
+  <publisher>Fingerprint</publisher>
+  <price>20.00</price>
+</book>
+<book>
+  <title>Pride and Prejudice</title>
+  <author>Jane Austen</author>
+  <genre>Fiction</genre>
+  <year>2003</year>
+  <edition>10</edition>
+  <ISBN>4567</ISBN>
+  <publisher>Fingerprint</publisher>
+  <price>10.00</price>
+</book>
+<book>
+  <title>Marley and Me</title>
+  <author>John Rogen</author>
+  <genre>Memoir</genre>
+  <year>2003</year>
+  <edition>7</edition>
+  <ISBN>5678</ISBN>
+  <publisher>Harper Collins</publisher>
+  <price>90.00</price>
+</book>
+</bookstore>
